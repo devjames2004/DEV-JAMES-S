@@ -1,0 +1,52 @@
+A CNC machining machine (Computer Numerical Control machine) is a machine that uses computer programs to automatically control tools and machinery for cutting, shaping, or drilling materials. ⚙️💻
+
+It is widely used in manufacturing, engineering, automotive, and aerospace industries.
+
+🔹 How a CNC Machine Works
+
+A design is created using AutoCAD or SolidWorks.
+
+The design is converted into G-code (machine instructions).
+
+The CNC machine reads the code.
+
+The machine automatically moves tools to cut or shape the material.
+
+🔹 Types of CNC Machines
+
+CNC Milling Machine 🛠 – Cuts and shapes metal or plastic.
+
+CNC Lathe Machine 🔩 – Rotates the material while cutting.
+
+CNC Laser Cutter 🔥 – Uses a laser beam to cut materials.
+
+CNC Plasma Cutter ⚡ – Uses plasma to cut metal.
+
+CNC Router 🪵 – Used for wood, plastic, and soft metals.
+
+🔹 Materials CNC Machines Can Cut
+
+Steel
+
+Aluminum
+
+Plastic
+
+Wood
+
+Brass
+
+🔹 Advantages of CNC Machines
+
+✔ Very high precision
+✔ Automatic operation
+✔ Fast production
+✔ Repeatable accuracy
+
+🔹 Simple CNC Code Example (G-code)
+G21        ; set units to millimeters
+G90        ; absolute positioning
+G01 X10 Y10 F100
+M30        ; end program
+
+This tells the machine to move the tool to position X10 Y10 at a specific speed
